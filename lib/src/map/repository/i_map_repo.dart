@@ -1,7 +1,7 @@
-import 'package:prodata/core/base/exception_handler.dart';
+import 'package:prodata/src/core/base/exception_handler.dart';
 import 'package:prodata/export.dart';
-import 'package:prodata/map/model/near_req_model.dart';
-import 'package:prodata/map/model/response/response_model.dart';
+import 'package:prodata/src/map/model/near_req_model.dart';
+import 'package:prodata/src/map/model/response/response_model.dart';
 
 final class IMapRepo implements MapRepo {
   final MapService _service;

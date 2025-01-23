@@ -1,5 +1,5 @@
 import 'package:go_router/go_router.dart';
-import 'package:prodata/core/base/extension.dart';
+import 'package:prodata/src/core/base/extension.dart';
 import 'package:prodata/export.dart';
 
 class DetailSheet extends StatelessWidget {

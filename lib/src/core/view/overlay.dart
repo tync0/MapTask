@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prodata/core/base/extension.dart';
+import 'package:prodata/src/core/base/extension.dart';
 
 abstract final class OverlayController {
   static OverlayEntry? entry;

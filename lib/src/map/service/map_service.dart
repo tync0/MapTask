@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:prodata/core/constant/app_const.dart';
-import 'package:prodata/map/model/near_req_model.dart';
+import 'package:prodata/src/core/constant/app_const.dart';
+import 'package:prodata/src/map/model/near_req_model.dart';
 
 final class MapService {
   final Dio _dio;

@@ -1,6 +1,6 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:prodata/map/model/response/response_address.dart';
-import 'package:prodata/map/model/response/response_location.dart';
+import 'package:prodata/src/map/model/response/response_address.dart';
+import 'package:prodata/src/map/model/response/response_location.dart';
 
 part 'response_model.freezed.dart';
 part 'response_model.g.dart';

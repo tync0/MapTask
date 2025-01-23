@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:prodata/core/base/geolocator.dart';
-import 'package:prodata/map/model/near_req_model.dart';
-import 'package:prodata/map/presentation/bloc/map_bloc.dart';
-import 'package:prodata/map/presentation/widget/detail_sheet.dart';
-import 'package:prodata/map/presentation/widget/search_field.dart';
+import 'package:prodata/src/core/base/geolocator.dart';
+import 'package:prodata/src/map/model/near_req_model.dart';
+import 'package:prodata/src/map/presentation/bloc/map_bloc.dart';
+import 'package:prodata/src/map/presentation/widget/detail_sheet.dart';
+import 'package:prodata/src/map/presentation/widget/search_field.dart';
 part 'map_mixin.dart';
 
 class AppMapView extends StatefulWidget {

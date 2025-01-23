@@ -3,9 +3,9 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:prodata/core/base/geolocator.dart';
-import 'package:prodata/map/model/near_req_model.dart';
-import 'package:prodata/map/repository/map_repo.dart';
+import 'package:prodata/src/core/base/geolocator.dart';
+import 'package:prodata/src/map/model/near_req_model.dart';
+import 'package:prodata/src/map/repository/map_repo.dart';
 
 part 'map_event.dart';
 part 'map_state.dart';

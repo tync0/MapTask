@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:prodata/map/presentation/view/map_view.dart';
+import 'package:prodata/src/map/presentation/view/map_view.dart';
 
 final class AppRouter {
   static final _rootNavigatorKey = GlobalKey<NavigatorState>();

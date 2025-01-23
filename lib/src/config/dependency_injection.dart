@@ -1,4 +1,4 @@
-import 'package:prodata/core/constant/app_const.dart';
+import 'package:prodata/src/core/constant/app_const.dart';
 import 'package:prodata/export.dart';
 
 abstract final class DependencyInjection {
